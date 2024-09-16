@@ -47,7 +47,7 @@ Simply open `index.html` in your preferred web browser.
 
 ## 🔗 Links
 
-- **GitHub Repository**: [View on GitHub](https://github.com/your-username/portfolio-website)
+- **GitHub Repository**: [View on GitHub](https://github.com/Mayank260901/Portfolio-Mayank)
 - **Live Demo**: [Portfolio Website](https://your-portfolio-link.com)
 
 ## 🤝 Contributing
