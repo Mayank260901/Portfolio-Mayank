@@ -4,7 +4,7 @@ Welcome to my portfolio website! 🌐 This site showcases my work and skills as 
 
 ## 🚀 Live Demo
 
-Check out the live demo of my portfolio website here: [Portfolio Website]([https://your-portfolio-link.com](https://mayank260901.github.io/Portfolio-Mayank/))
+Check out the live demo of my portfolio website here: ([Portfolio Website](https://mayank260901.github.io/Portfolio-Mayank/))
 
 ## 📸 Screenshot
 
@@ -30,7 +30,7 @@ To view or contribute to this project, follow these steps:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Mayank260901/portfolio-website.git
 cd portfolio-website
 
 
@@ -48,7 +48,7 @@ Simply open `index.html` in your preferred web browser.
 ## 🔗 Links
 
 - **GitHub Repository**: [View on GitHub](https://github.com/Mayank260901/Portfolio-Mayank)
-- **Live Demo**: [Portfolio Website]([https://your-portfolio-link.com](https://mayank260901.github.io/Portfolio-Mayank/))
+- **Live Demo**: ([https://mayank260901.github.io/Portfolio-Mayank/](https://mayank260901.github.io/Portfolio-Mayank/))
 
 ## 🤝 Contributing
 
